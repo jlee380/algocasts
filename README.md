@@ -1,3 +1,3 @@
-# AlgoCasts
+# Algorithm Playground
 
-Companion repo to a course on Udemy.com
+All my solutions of Algorithm
